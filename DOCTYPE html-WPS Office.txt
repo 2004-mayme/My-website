@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Martin Luther Mutugi Kaburu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #a8ff78, #78ffd6);
+            color: #333;
+        }
+        header {
+            background-color: #4caf50;
+            color: white;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            padding: 2rem;
+        }
+        .section {
+            margin-bottom: 2rem;
+        }
+        h1, h2, h3 {
+            text-align: center;
+        }
+        .fun-facts {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 1rem;
+            justify-content: center;
+        }
+        .fun-fact {
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            padding: 1rem;
+            width: 30%;
+            min-width: 200px;
+            text-align: center;
+        }
+        footer {
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            padding: 1rem 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .contact-info {
+            text-align: center;
+        }
+        .social-links a {
+            margin: 0 10px;
+            text-decoration: none;
+            color: #4caf50;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Martin Luther Mutugi Kaburu</h1>
+        <p>Certified Counseling Psychologist | AI Writer | Advocate for Mental Health</p>
+    </header>
+    <div class="container">
+        <div class="section">
+            <h2>About Me</h2>
+            <p>Hello! I'm Martin Luther Mutugi Kaburu, a dedicated Counseling Psychologist and innovative AI Writer. I hold a Bachelor of Arts in Counseling Psychology from Kenyatta University. With professional experience in mental health and content creation, I am passionate about promoting mental well-being and leveraging technology to enhance human connections.</p>
+        </div>
+        <div class="section">
+            <h2>Professional Experience</h2>
+            <h3>AI Writer (October 2023 - Present)</h3>
+            <ul>
+                <li>Created engaging and relevant content using AI tools.</li>
+                <li>Collaborated with AI developers to refine and enhance AI writing capabilities.</li>
+                <li>Conducted research to inform and improve AI-generated content.</li>
+                <li>Analyzed content performance metrics to optimize future outputs.</li>
+                <li>Provided feedback on AI tool functionality and user experience.</li>
+            </ul>
+            <h3>Addiction Officer, East Africa Rehabilitation Centre (September 2023 - April 2024)</h3>
+            <ul>
+                <li>Conducted individual and group therapy sessions.</li>
+                <li>Assessed clients' needs and developed treatment plans.</li>
+                <li>Collaborated with a multidisciplinary team.</li>
+                <li>Provided support for substance abuse and mental health issues.</li>
+                <li>Engaged in psychoeducation and crisis intervention.</li>
+                <li>Maintained accurate client records.</li>
+            </ul>
+            <h3>Counseling Psychologist Attachee, Kenyatta National Hospital (May 2022 - December 2022)</h3>
+            <ul>
+                <li>Provided counseling and support to diverse patient populations.</li>
+                <li>Utilized qualitative and quantitative research methods to assess patient needs.</li>
+                <li>Developed treatment plans and tracked patient progress.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Fun Facts</h2>
+            <div class="fun-facts">
+                <div class="fun-fact">
+                    <h3>Fact 1</h3>
+                    <p>Did you know that the shortest war in history lasted only 38 minutes?</p>
+                </div>
+                <div class="fun-fact">
+                    <h3>Fact 2</h3>
+                    <p>Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3,000 years old and still edible!</p>
+                </div>
+                <div class="fun-fact">
+                    <h3>Fact 3</h3>
+                    <p>Bananas are berries, but strawberries aren't!</p>
+                </div>
+            </div>
+        </div>
+        <div class="section">
+            <h2>My View of Life</h2>
+            <p>I believe in the power of positive thinking and the importance of mental health. Life is a journey of continuous learning and growth, and I strive to make a positive impact on those around me. Through my work in psychology and AI, I aim to bridge the gap between technology and human well-being.</p>
+        </div>
+        <div class="section contact-info">
+            <h2>Contact Me</h2>
+            <p>Feel free to reach out to me for counseling sessions, collaborations, or just to share some interesting fun facts!</p>
+            <p>Email: kaburuluther@gmail.com</p>
+            <p>Phone: +254 704-801208</p>
+            <div class="social-links">
+                <a href="https://www.facebook.com/profile.php?id=100063725056641">Facebook</a>
+                <a href="https://www.instagram.com/maywiseluther?igsh=dGZycDRtOTZpbmts">Instagram</a>
+                <a href="https://youtube.com/@luthermaywise4219?si=HzboKVQLtsFAwpH1">YouTube</a>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2024 Martin Luther Mutugi Kaburu</p>
+    </footer>
+</body>
+</html>
+
